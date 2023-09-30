@@ -1,7 +1,7 @@
 # Write-a-Data-Science-Blog-Post
 Project 1 Udacity - Data Scientist: Write a Data Science Blog Post
 # Medium Blog Post
-Here is the Medium blog post: 
+Here is the Medium blog post: https://medium.com/@nguynminhhng/co2-emission-forecast-4b7a02d7fa8d
 
 # Project Motivation
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
