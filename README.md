@@ -6,8 +6,7 @@ Here is the Medium blog post:
 # Project Motivation
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
 
-I used "Carbon emissions from electricity generation" dataset for this project. The original dataset can be found here: [CO2 Emission Forecast with Python](https://www.kaggle.com/code/berhag/co2-emission-forecast-with-python-seasonal-arima/data)
-
+I used "Carbon emissions from electricity generation" dataset for this project. The original dataset can be found here: https://www.kaggle.com/code/berhag/co2-emission-forecast-with-python-seasonal-arima/data
 This project focuses on answering following questions: "Analyze fuel factors in the power and energy industry that affect the environment and explain the causes. At the same time, forecast the future trend of one of those factors?"
 
 # Libraries
