@@ -11,7 +11,7 @@ I used "Carbon emissions from electricity generation" dataset for this project. 
 This project focuses on answering following questions: "Analyze fuel factors in the power and energy industry that affect the environment and explain the causes. At the same time, forecast the future trend of one of those factors?"
 
 # Libraries
-I use Python3. Here are the libraries I used in my Jupyter Notebook:
+I use Python3 and ARIMA algorithm to build model and make prediction. Here are the libraries I used in my Jupyter Notebook:
 
 - Numpy
 - Pandas
@@ -20,8 +20,7 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 - Pmdarima
 - Statsmodels
 
-#File Descriptions
+# File Descriptions
 
-project_1.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations.
-
-MER_T12_06.csv Original dataset in csv format
+- project_1.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations.
+- MER_T12_06.csv Original dataset in csv format
