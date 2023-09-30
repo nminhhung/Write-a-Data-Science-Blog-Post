@@ -22,5 +22,5 @@ I use Python3 and ARIMA algorithm to build model and make prediction. Here are t
 
 # File Descriptions
 
-- project_1.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations.
-- MER_T12_06.csv Original dataset in csv format
+- project_1.ipynb jupyter notebook with complete analysis, answers to the questions, explanations and visualisations.
+- MER_T12_06.csv original dataset in csv format
