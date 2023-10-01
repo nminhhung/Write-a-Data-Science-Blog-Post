@@ -24,3 +24,9 @@ I use Python3 and ARIMA algorithm to build model and make prediction. Here are t
 
 - project_1.ipynb jupyter notebook with complete analysis, answers to the questions, explanations and visualisations.
 - MER_T12_06.csv original dataset in csv format
+
+# Resolution
+- Carbon emissions from electicity production dataset
+- Credit: Monthly/Annual carbon dioxide emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.
+**U.S. Energy Information Administration License**
+- https://www.eia.gov/electricity/data.php#elecenv
