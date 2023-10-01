@@ -27,7 +27,7 @@ I use Python3 and ARIMA algorithm to build model and make prediction. Here are t
 
 # Resolution
 - Carbon emissions from electicity production dataset
-- Credit: Monthly/Annual carbon dioxide emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.
+- Dataset credit: Monthly/Annual carbon dioxide emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.
 
 **U.S. Energy Information Administration License**
 - https://www.eia.gov/electricity/data.php#elecenv
